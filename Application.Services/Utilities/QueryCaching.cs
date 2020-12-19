@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Infrastructure.Cache.Services;
+using Infrastructure.Caching.Services;
 
 namespace Application.Service.Utilities
 {

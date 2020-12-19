@@ -13,7 +13,7 @@
     <ProjectReference Include="..\Data.Entities\Data.Entities.csproj" />
     <ProjectReference Include="..\Data.Repository\Data.Repository.csproj" />
     <ProjectReference Include="..\Domain.Models\Domain.Models.csproj" />
-    <ProjectReference Include="..\Infrastructure.Cache\Infrastructure.Cache.csproj" />
+    <ProjectReference Include="..\Infrastructure.Cache\Infrastructure.Caching.csproj" />
     <ProjectReference Include="..\Infrastructure.Logging\Infrastructure.Logging.csproj" />
     <ProjectReference Include="..\Infrastructure.Messaging\Infrastructure.Messaging.csproj" />
   </ItemGroup>

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Application.Service.Scope.Aggregate;
 using Data.Repository.IOC;
-using Infrastructure.Cache.IOC;
+using Infrastructure.Caching.IOC;
 using Infrastructure.Logging.IOC;
 using Infrastructure.Messaging.IOC;
 using Microsoft.Extensions.DependencyInjection;

@@ -8,7 +8,7 @@ using Data.Entities.Models;
 using Data.Repository.Scope.Aggregate;
 using Domain.Core.Scope.Aggregate.Operations.AggregateMatchesSearchTerm;
 using Domain.Models.Scope.Aggregate;
-using Infrastructure.Cache.Services;
+using Infrastructure.Caching.Services;
 
 namespace Application.Service.Scope.Aggregate
 {

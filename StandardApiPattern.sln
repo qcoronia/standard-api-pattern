@@ -41,7 +41,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationLayer", "Applica
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.Service", "Application.Services\Application.Service.csproj", "{085C76E2-0728-4FD1-93DD-DBC16F035E01}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Cache", "Infrastructure.Cache\Infrastructure.Cache.csproj", "{E5DBA598-7D4D-4699-963F-DB342F56B154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Caching", "Infrastructure.Cache\Infrastructure.Caching.csproj", "{E5DBA598-7D4D-4699-963F-DB342F56B154}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationLayer", "PresentationLayer", "{5C50C00C-5507-4E82-B211-32985980519E}"
 	ProjectSection(SolutionItems) = preProject

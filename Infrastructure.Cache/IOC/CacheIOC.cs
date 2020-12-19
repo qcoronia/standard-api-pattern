@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Infrastructure.Cache.Services;
+using Infrastructure.Caching.Services;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Infrastructure.Cache.IOC
+namespace Infrastructure.Caching.IOC
 {
     public static class CacheIOC
     {
